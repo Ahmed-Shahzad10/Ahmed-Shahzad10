@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Conference Management System for Bahria University Islamabad<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Javascript , Git, Dockers<br>💬 Ask me about Web Development, history <br>⚡ Fun fact what does 1 + "8" equals that's right 18
+🔭 I’m currently working on Conference Management System for Bahria University Islamabad<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Finance App <br>🌱 I’m currently learning Javascript , Git, Dockers<br>💬 Ask me about Web Development, history <br>⚡ Fun fact what does 1 + "8" equals that's right 18
 
 
 ## 🌐 Socials:
